@@ -1,5 +1,5 @@
 /**
- * Author: Francisco Padilla 
+ * Author: Francisco Padilla Cortez
  * Date: 2019/01/17
  *
  * A simple hello world program in C
